@@ -1,4 +1,4 @@
-# Visualisasi Data Sumedang 2025
+# Test Diskominfosanditik Sumedang
 
 ## Cara Menjalankan
 
